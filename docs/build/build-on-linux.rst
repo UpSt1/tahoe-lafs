@@ -70,6 +70,3 @@ If you do not want to use the full path, i.e., ``venv/bin/tahoe`` everytime you 
    . venv/bin/activate
 
   This will generate a subshell with a ``$PATH`` that includes the ``venv/bin/`` directory.
-
-
-
